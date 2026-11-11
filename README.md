@@ -1,4 +1,5 @@
-# HO Academy 2025 Python Academy
+# Capgemini Academy 2026
+Python Academy
 
 
 ## Introduction to Python, Installation, and Configuration
